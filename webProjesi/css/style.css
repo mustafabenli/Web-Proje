@@ -1,0 +1,104 @@
+/* CSS Document */
+
+.mirasimizhd
+{   color: aliceblue;
+	font-family:"aguafina-script";
+    font-size:20px;
+}
+.egitimbody
+{
+	background-image: url("../img/Coding.png");
+	color: white;
+}
+.sehrimbody
+{   font-family:"aguafina-script";
+    font-size:20px;
+	background-color:darkkhaki;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+.hakkımdabody
+{
+  font-family:"aguafina-script";
+  font-size:20px;
+  background-image: url("../img/hakkımdabg.jpg");
+  color: aliceblue;
+}
+
+.iletisimBody
+{
+	background-image: url("../img/iletisimbg.jpg");
+	color: aqua; 
+}
+#yonetim_giris_body
+{
+	background-image: url("../img/loginbg.jpg");
+	color: beige;
+}
+input[type=text]
+{
+  border: 2px solid #C17E7F;
+  border-radius: 4px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #3CBC8D;
+  color: white;
+}
+input[type=text]:focus 
+{
+  background-color: lightblue;
+}
+input [type=password]
+{
+  border: 2px solid #C17E7F;
+  border-radius: 4px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #3CBC8D;
+  color: white;
+	
+}
+ input[type=submit]{
+  background-color: #254FF1;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+    input[type=reset] {
+  background-color: #E41F23;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+select {
+  width: 50%;
+  padding: 16px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+h4
+{
+	text-align: center;
+}
